@@ -16,7 +16,7 @@
 ### 👨‍💻 Sobre Mí
 
 <p>
-  Soy un estudiante de ingenieria de sistemas de la universidad de cartagena en 10° semestre appasionado por la construccion de aplicaciones. Actualmente, estoy enfocado en mejorar mis habilidades en el desarrollo python y explorar el mundo de la ingenieria de datos.
+  Soy un estudiante de ingenieria de sistemas de la universidad de cartagena en 10° semestre apasionado por la construccion de aplicaciones. Actualmente, estoy enfocado en mejorar mis habilidades en el desarrollo python y explorar el mundo de la ingenieria de datos.
 </p>
 
 - 🎯 **Objetivo:** Convertirme en un desarrollador python experto, construyendo soluciones de datos robustas y escalables.
